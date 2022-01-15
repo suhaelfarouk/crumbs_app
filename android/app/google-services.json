@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707658861125",
+    "project_id": "crumbs-app-flutter",
+    "storage_bucket": "crumbs-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707658861125:android:f91e6d1ed1bcac6ec5312c",
+        "android_client_info": {
+          "package_name": "com.crumbs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707658861125-8lajkfalh99ice30953g18uk5nfa788j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crumbs_app",
+            "certificate_hash": "144098eabb5c0bedabd417bea1cf97ef27d312a4"
+          }
+        },
+        {
+          "client_id": "707658861125-u79uhlt1678ao466s1se2oi9v8n3rrp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GwxcK8ZAyFFt9Dz--7VRII4L1j01kpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707658861125-u79uhlt1678ao466s1se2oi9v8n3rrp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
